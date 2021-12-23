@@ -1,0 +1,7 @@
+https://www.c-sharpcorner.com/article/rest-api-csharp-console-application/
+https://www.c-sharpcorner.com/article/how-to-call-an-external-api-from-a-spfx-webpart/
+https://psuadacae.sharepoint.com/sites/appcatalog/AppCatalog/Forms/AllItems.aspx
+https://natechamberlain.com/2020/08/21/how-to-save-a-sharepoint-site-as-a-template/
+
+http://www.sharepointsamples.com/spfx-react-webpart-connecting-external-api/\
+https://www.c-sharpcorner.com/blogs/calling-third-party-api-in-spfx-using-microsoftsphttp
